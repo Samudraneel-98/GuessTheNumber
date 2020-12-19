@@ -1,0 +1,112 @@
+*{
+    position:relative;
+}
+body{
+    background-color:#db2b39;
+    overflow: hidden;
+}
+#header{
+    box-sizing: border-box;
+    height: 100px;
+    box-sizing: inherit;
+    background-color:#29335c;
+    margin:-10px -10px;
+    padding-left:20px;
+    height: 50px;
+    font-size:50px;
+    color:white;
+    
+    
+}
+#ourform{
+    margin-top: 120px;
+    margin-left: 390px;
+    box-sizing: border-box;
+    height: 280px;
+    width:480px;
+    background-color:white;
+    }
+
+#Number{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 475px;
+    border: transparent;
+    background-color: #534d41;
+    
+}
+#Credential{
+    font-size: 20px;
+    color:#bcffdb;
+}
+
+
+#Neel
+{
+    margin-top: 100px;
+    border-radius:300px;
+    font-size: 25px;
+    border: hidden;
+    background-color:#f0cea0;
+    color: white;
+}
+.button1{
+    border-radius: 10px;
+    font-size: 40px;
+    width: 210px;
+    border: transparent;
+    width: 237px;
+    background-color: #f3a712;
+    color: ivory;
+    margin-top: 15px;
+}
+.button1
+{
+    transition-duration:0.4s;
+}
+.button1:hover{
+    background-color: #b96d40; 
+    color: rgb(255, 184, 184);
+}
+.button2{
+    border-radius: 10px;
+    font-size: 40px;
+    width: 210px;
+    border: transparent;
+    width: 237px;
+    background-color:#f3a712;
+    color: ivory;
+    margin-top: 15px;
+}
+.button2
+{
+    transition-duration:0.4s;
+}
+.button2:hover{
+    background-color: #b96d40; 
+    color: rgb(255, 184, 184);
+}
+::placeholder{
+    color:white;
+}
+#logo{
+    margin-left: 165px;
+}
+#red{
+    background-color: #fde12d;
+    border: transparent;
+    border-radius: 10px;
+    height: 40px;
+    padding-left: 160px;
+    margin-top: 15px;
+}
+#green{
+    background-color: #68d89b;
+    border: transparent;
+    border-radius: 10px;
+    height: 40px;
+    padding-left: 160px;
+    margin-top: 15px;
+}
